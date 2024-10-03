@@ -1,4 +1,4 @@
-# **Identification of Early-Stage Biomarkers for Hepatocellular Carcinoma (HCC)** 
+# **Identification of Biomarkers for Early-Stage Hepatocellular Carcinoma (HCC)** 
 
 ## **Overview**
 
