@@ -36,7 +36,11 @@ The analysis follows these key steps:
 
 - **Venn Diagrams**: Used to identify common genes between the datasets, leading to the selection of SQLE, AFP, and COL2A1 as potential biomarkers. 
 
-- **Enrichment Analysis**: Supported the involvement of the identified genes in HCC-related pathways, highlighting their potential as early diagnostic markers. 
+- **Enrichment Analysis**: Supported the involvement of the identified genes in HCC-related pathways, highlighting their potential as early diagnostic markers.
+
+## **Acknowledgment**
+
+This project was part of my Master's thesis research at Nottingham Trent University.
 
 ## **References**
 
