@@ -4,7 +4,7 @@
 
 Hepatocellular Carcinoma, a leading cause of cancer-relataed deaths worldwide, often goes undiagnosed until its later stages when treatment options are limited, and prognosis is poor. The primary reason for this late detection is the lack of sensitive and specific biomarkers for early-stage diagnosis. If we can identify reliable biomarkers for the early detection of HCC, it would allow for timely intervention when treatment is more feasible and effective.
 
-This project focuses on identifying potential early-stage biomarkers for hepatocellular carcinoma (HCC) using gene expression data. The study leverages datasets from the Gene Expression Omnibus (GEO) to analyze differential gene expression between fetal liver, adult liver, and HCC samples. The goal is to identify genes associated with the dedifferentiation process, a hallmark of early-stage HCC.  
+This project focuses on identifying potential early-stage biomarkers for hepatocellular carcinoma (HCC) using gene expression data. The study leverages datasets from the Gene Expression Omnibus (GEO) to analyze differential gene expression between fetal liver, adult liver, and HCC samples. The goal is to identify genes associated with the dedifferentiation process of the adult liver into a fetal-like state, as one early hallmark of HCC is the dedifferentiation of adult hepatocytes into more highly proliferative state typical of the fetal liver.  
 
 ## **Methodology** 
 
